@@ -10,8 +10,8 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: nowrap;">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/python.svg" alt="Python" width="40" id="py-icon">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/postgresql.svg" alt="PostgreSQL" width="40" id="pg-icon">
-  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/aws.svg" alt="aws" width="40" id="pg-icon">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/mysql.svg" alt="MySQL" width="40" id="mysql-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/aws.svg" alt="aws" width="40" id="pg-icon">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/git.svg" alt="GitHub" width="40" id="gh-icon">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/power-bi-icon.svg" alt="Power BI" width="40" id="pbi-icon">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/tableau-svgrepo-com.svg" alt="Tableau" width="40" id="tableau-icon">
