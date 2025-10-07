@@ -24,7 +24,16 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
 
 ## Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/chidilan/"><img src="https://raw.githubusercontent.com/chidilan/chidilan/main/linkedin-app-icon (1).svg" alt="linkedin" width="40" id="gh-icon">
-  <a href="mailto:chidilan09@gmail.com"><img src="https://raw.githubusercontent.com/chidilan/chidilan/main/gmail-icon.svg" alt="gmail" width="40" id="gh-icon">
-  <a href="https://github.com/chidilan"><img src="https://raw.githubusercontent.com/chidilan/chidilan/main/github.svg" alt="GitHub" width="40" id="gh-icon">
+  <a href="https://www.linkedin.com/in/chidilan/">
+    <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/linkedin-app-icon (1).svg" alt="LinkedIn" width="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:chidilan09@gmail.com">
+    <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/gmail-icon.svg" alt="Gmail" width="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chidilan">
+    <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/github.svg" alt="GitHub" width="40">
+  </a>
 </div>
+
