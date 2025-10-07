@@ -7,7 +7,7 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
 * Skilled in building predictive analytics and AI-integrated workflows
 
 ## Tech Arsenal
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: nowrap;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/python.svg" alt="Python" width="40" id="py-icon">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/postgresql.svg" alt="PostgreSQL" width="40" id="pg-icon">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/mysql.svg" alt="MySQL" width="40" id="mysql-icon">
@@ -21,23 +21,6 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate.svg" alt="Power Automate" width="40" id="powerautomate-icon">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" alt="Power Query" width="40" id="powerquery-icon">
 </div>
-
-- **Languages & Tools**: SQL (PostgreSQL, MySQL), Python, R, GitHub
-- **Visualization**: Power BI, Tableau, Excel, Power Query
-- **Microsoft Stack**: Power Apps, Power Automate, Dataverse
-
-- **Languages**: SQL, R, Python
-- **Tools**: Git, GitHub, R visualization libraries (e.g., ggplot2)
-
-- 🔍 **Interests**: Data storytelling, database design, statistical analysis using R
-- 💻 **Tools**: SQL, R, Git for version control
-- 📊 **Featured Projects**: 
-  - NYC Public School Test Analysis (SQL queries on SAT scores and borough performance)
-  - Chicago Crime Exploratory Analysis (Correlating crime data with weather)
-  - Ecommerce Sales Analysis (JSON data processing and sales trends)
-  - And more in my [SQL-Portfolio](https://github.com/chidilan/SQL-Portfolio) and [R-Projects](https://github.com/chidilan/R_Projects) repos!
-
-Currently exploring advanced topics like query optimization, stored procedures, and R visualizations. Let's connect on data adventures! 🚀
 
 ## Connect with Me
 - 📧 [Email me](mailto:chidilan09@gmail.com)
