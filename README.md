@@ -1,4 +1,4 @@
-# About me
+## About me
 
 Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based exploratory data analysis, and data visualization. My projects focus on uncovering insights from diverse datasets, including crime statistics, school performance, and e-commerce trends, using structured queries and statistical tools.
 * 3+ years of experience in data engineering and automation
@@ -6,7 +6,7 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
 * Automated processes saving 100+ monthly work hours
 * Skilled in building predictive analytics and AI-integrated workflows
 
-# Tech Arsenal
+## Tech Arsenal
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: nowrap;">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/python-svgrepo-com.svg" alt="Python" width="40" id="py-icon">
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/postgresql-logo-svgrepo-com.svg" alt="PostgreSQL" width="40" id="pg-icon">
