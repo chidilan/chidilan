@@ -1,8 +1,10 @@
-# Chi Dilan
+# About me
 
-Data Enthusiast │ Aspiring Data Analyst │ SQL & R Projects │ Portfolio in Progress
-
-Hi! I'm Chi Dilan, a passionate learner diving into data analysis, SQL querying, and R for exploratory data analysis. With projects covering topics like crime data, school performance, e-commerce sales, and more, I'm building skills in data manipulation, visualization, and insights extraction.
+Hi! I'm Chi Dilan, a passionate learner diving into Data analysis, SQL querying, and R for exploratory data analysis. With projects covering topics like crime data, school performance, e-commerce sales, and more, I'm building skills in data manipulation, visualization, and insights extraction.
+* 3+ years of experience in data engineering and automation
+* Delivered 65% faster decision-making through real-time dashboards
+* Automated processes saving 100+ monthly work hours
+* Skilled in building predictive analytics and AI-integrated workflows
 
 - 🔍 **Interests**: Data storytelling, database design, statistical analysis using R
 - 💻 **Tools**: SQL, R, Git for version control
