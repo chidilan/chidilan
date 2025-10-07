@@ -1,6 +1,6 @@
 ### About me
 
-Hi! I'm Chi Dilan, a Business Intelligence enthusiast. By leveraging tools like Python, R, and the Microsoft Power Platform, I've been able to transform raw data into actionable insights, with projects spanning education, crime, and e-commerce analytics.
+I’m a dedicated data enthusiast specializing in exploratory data analysis, SQL querying, and impactful visualizations. I leverage tools like Python, R, and the Microsoft Power Platform to transform raw data into actionable insights, with projects spanning education, crime, and e-commerce analytics.
 * Built SQL-driven analyses for NYC school performance and Chicago crime trends
 * Created visualizations in R and Tableau to reveal data patterns
 * Streamlined e-commerce sales reporting with Python and JSON processing
