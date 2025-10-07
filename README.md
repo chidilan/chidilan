@@ -22,7 +22,7 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" alt="Power Query" width="40" id="powerquery-icon">
 </div>
 
-**Connect with Me**
+### Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/chidilan/">
     <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/linkedin-app-icon (1).svg" alt="LinkedIn" width="40">
