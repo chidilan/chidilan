@@ -29,7 +29,7 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/tableau-svgrepo-com.svg" alt="Tableau" width="50" id="tableau-icon">
   
   <!-- Excel -->
-  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/microsoft-excel.svg" alt="Excel" width="50" id="excel-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/microsoft-excel-svgrepo-com.svg" alt="Excel" width="50" id="excel-icon">
   
   <!-- Dataverse (provided) -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Dataverse.svg" alt="Dataverse" width="50" id="dataverse-icon">
