@@ -43,6 +43,19 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
   <!-- Power Query (provided) -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" alt="Power Query" width="50" id="powerquery-icon">
 </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: nowrap;">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/python.svg" alt="Python" width="40" id="py-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/postgresql-logo.svg" alt="PostgreSQL" width="40" id="pg-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/mysql-logo.svg" alt="MySQL" width="40" id="mysql-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/github.svg" alt="GitHub" width="40" id="gh-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/power-bi-icon.svg" alt="Power BI" width="40" id="pbi-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/tableau.svg" alt="Tableau" width="40" id="tableau-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/microsoft-excel.svg" alt="Excel" width="40" id="excel-icon">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Dataverse.svg" alt="Dataverse" width="40" id="dataverse-icon">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Apps.svg" alt="Power Apps" width="40" id="powerapps-icon">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate.svg" alt="Power Automate" width="40" id="powerautomate-icon">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" alt="Power Query" width="40" id="powerquery-icon">
+</div>
 
 - **Languages & Tools**: SQL (PostgreSQL, MySQL), Python, R, GitHub
 - **Visualization**: Power BI, Tableau, Excel, Power Query
