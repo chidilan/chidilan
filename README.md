@@ -23,8 +23,7 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
 </div>
 
 ## Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/chidilan/"><img src="https://raw.githubusercontent.com/chidilan/chidilan/main/linkedin-app-icon (1).svg" alt="linkedin" width="40" id="gh-icon">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: nowrap;">
   <a href="mailto:chidilan09@gmail.com"><img src="https://raw.githubusercontent.com/chidilan/chidilan/main/gmail-icon.svg" alt="gmail" width="40" id="gh-icon">
   <a href="https://github.com/chidilan"><img src="https://raw.githubusercontent.com/chidilan/chidilan/main/github.svg" alt="GitHub" width="40" id="gh-icon">
 </div>
