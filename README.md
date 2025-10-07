@@ -1,10 +1,9 @@
 ### About me
 
-Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based exploratory data analysis, and data visualization. My projects focus on uncovering insights from diverse datasets, including crime statistics, school performance, and e-commerce trends, using structured queries and statistical tools.
-* 3+ years of experience in data engineering and automation
-* Delivered 65% faster decision-making through real-time dashboards
-* Automated processes saving 100+ monthly work hours
-* Skilled in building predictive analytics and AI-integrated workflows
+Hi! I'm Chi Dilan, a Business Intelligence enthusiast. By leveraging tools like Python, R, and the Microsoft Power Platform, I've been able to transform raw data into actionable insights, with projects spanning education, crime, and e-commerce analytics.
+* Built SQL-driven analyses for NYC school performance and Chicago crime trends
+* Created visualizations in R and Tableau to reveal data patterns
+* Streamlined e-commerce sales reporting with Python and JSON processing
 
 ### Tech Arsenal
 <div align="center">
