@@ -11,13 +11,13 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
 
 <div style="text-align: center; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/python.svg" alt="Python" width="50" id="py-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/python-svgrepo-com.svg" alt="Python" width="50" id="py-icon">
   
   <!-- PostgreSQL (adapt elephant SVG paths for animation) -->
-  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/postgresql-logo.svg" alt="PostgreSQL" width="50" id="pg-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/postgresql-logo-svgrepo-com.svg" alt="PostgreSQL" width="50" id="pg-icon">
   
   <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/mysql-logo.svg" alt="MySQL" width="50" id="mysql-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/mysql-logo-svgrepo-com.svg" alt="MySQL" width="50" id="mysql-icon">
   
   <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/github.svg" alt="GitHub" width="50" id="gh-icon">
@@ -26,7 +26,7 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.svg" alt="Power BI" width="50" id="pbi-icon">  <!-- Or upload custom -->
   
   <!-- Tableau -->
-  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/tableau.svg" alt="Tableau" width="50" id="tableau-icon">
+  <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/tableau-svgrepo-com.svg" alt="Tableau" width="50" id="tableau-icon">
   
   <!-- Excel -->
   <img src="https://raw.githubusercontent.com/chidilan/chidilan/main/microsoft-excel.svg" alt="Excel" width="50" id="excel-icon">
