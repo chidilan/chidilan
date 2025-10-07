@@ -44,25 +44,6 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" alt="Power Query" width="50" id="powerquery-icon">
 </div>
 
-<style>
-@keyframes drawFirst {  /* Primary color animation */
-  0% { stroke-dasharray: 0 1000; }
-  50% { stroke-dasharray: 1000 1000; }
-  50% { fill: transparent; }
-  75%, 100% { fill: #primary-color; }  /* e.g., #3670A0 for Python blue */
-}
-@keyframes drawSecond {  /* Secondary color if multi-part */
-  0% { stroke-dasharray: 0 1000; }
-  50% { stroke-dasharray: 1000 1000; }
-  50% { fill: transparent; }
-  75%, 100% { fill: #secondary-color; }  /* e.g., #FED140 for Python yellow */
-}
-#py-icon path:first-child { stroke: #3670A0; stroke-width: 2; animation: drawFirst 3s linear infinite; }  /* Customize per ID */
-#py-icon path:last-child { stroke: #FED140; stroke-width: 2; animation: drawSecond 3s linear infinite; }
-/* Repeat for others, e.g., #pg-icon { fill: #336791; animation: drawFirst 3s linear infinite; } for PostgreSQL blue */
-/* For single-color icons like MySQL (red/orange), use one keyframe and path selector */
-</style>
-
 - **Languages & Tools**: SQL (PostgreSQL, MySQL), Python, R, GitHub
 - **Visualization**: Power BI, Tableau, Excel, Power Query
 - **Microsoft Stack**: Power Apps, Power Automate, Dataverse
