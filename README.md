@@ -39,7 +39,7 @@ Hi! I'm Chi Dilan, a data enthusiast diving deep into SQL querying, R-based expl
 #py-icon path:last-child { stroke: #FED140; stroke-width: 2; animation: pySecond 3s linear infinite; }
 
 /* Single-color animations for others (adjust colors) */
-@keyframes draw {  /* Generic for single-color icons */
+@keyframes draw {
   0% { stroke-dasharray: 0 1000; }
   50% { stroke-dasharray: 1000 1000; }
   50% { fill: transparent; }
